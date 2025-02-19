@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "JavaScript",
+    "imagen": "/imagenes/js.jpg",
+    "descripcion": "JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript."
+  },
+  {
+    "nombre": "Python",
+    "imagen": "/imagenes/py.jpg",
+    "descripcion": "Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código."
+  },
+  {
+    "nombre": "Java",
+    "imagen": "/imagenes/java.png",
+    "descripcion": "Java es un lenguaje de programación de propósito general, concurrente, orientado a objetos y basado en clases."
+  },
+  {
+    "nombre": "C++",
+    "imagen": "/imagenes/c++.jpg",
+    "descripcion": "C++ es un lenguaje de programación que fue diseñado para la programación de sistemas y aplicaciones de software."
+  },
+  {
+    "nombre": "Ruby",
+    "imagen": "/imagenes/ruby.png",
+    "descripcion": "Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos."
+  },
+  {
+    "nombre": "Go",
+    "imagen": "/imagenes/go.jpg",
+    "descripcion": "Go es un lenguaje de programación concurrente y compilado inspirado en la sintaxis de C."
+  }
+]
